@@ -4,7 +4,10 @@ tags:
   - projects
 Status: Planning
 ---
-David Halloway, an investigative journalist dealing with personal loss and a failing career, is drawn to the abandoned town of RedHaven after receiving an anonymous tip about its mysterious disappearance. The town is linked to the strange death of his pregnant wife, Emily, which has left him filled with grief and guilt. As David investigates RedHaven, he begins to suspect that the town's secrets may be connected to his wife’s death, pulling him deeper into a chilling mystery. The story explores themes of loss, closure, and the supernatural as David searches for answers that may be darker than he imagined.
+David Halloway, an investigative journalist dealing with personal loss and a failing career, is drawn to the abandoned town of RedHaven after receiving an anonymous tip about its mysterious disappearance. As David investigates RedHaven, he begins to suspect that the town's secrets may be connected to his wife’s death, pulling him deeper into a chilling mystery. The story explores themes of loss, closure, and the supernatural as David searches for answers that may be darker than he imagined.
+
+---
+
 # Story
 Explore the story that unfolds in The last Transmission
 
