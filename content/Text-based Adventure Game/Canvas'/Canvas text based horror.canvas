@@ -21,7 +21,7 @@
 		{"id":"11bb476aec363064","type":"file","file":"Projects/Text-based Adventure Game/Characters/Emily Halloway.md","x":702,"y":1210,"width":400,"height":400},
 		{"id":"81d120f1a55432a1","type":"file","file":"Projects/Text-based Adventure Game/Characters/The Scientists.md","x":1155,"y":1210,"width":400,"height":400},
 		{"id":"67dc77be1c247de6","type":"file","file":"Projects/Text-based Adventure Game/David's Investigation.md","x":-1460,"y":1120,"width":760,"height":960},
-		{"id":"20127a046cb96078","type":"file","file":"Projects/Text-based Adventure Game/Story.md","x":-1460,"y":89,"width":760,"height":910}
+		{"id":"20127a046cb96078","type":"file","file":"Projects/Text-based Adventure Game/Summary.md","x":-1460,"y":89,"width":760,"height":910}
 	],
 	"edges":[
 		{"id":"12ab0ae8ac23263b","fromNode":"fc4f0d2996efc945","fromSide":"left","toNode":"20127a046cb96078","toSide":"top"},

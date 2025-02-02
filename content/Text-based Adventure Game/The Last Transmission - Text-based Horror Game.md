@@ -6,7 +6,8 @@ Status: Planning
 ---
 
 # Story
-[[Story]]
+[[Summary]]
+[[David's Investigation]]
 # Planning
 [[Title Ideas]]
 [[Planning the Game]]
