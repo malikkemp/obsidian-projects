@@ -16,12 +16,13 @@ Learn More about the Setting of the Story
 1. [[RedHaven]]
 2. [[The Lake]]
 # Characters
-FInd out more about the Characters involved.
+Find out more about the Characters involved.
 
 1. [[David Halloway]]
 2. [[Emily Halloway]]
 3. [[The Townspeople]]
 4. [[The Scientists]]
+5. [[ShadowPeople]]
 # Art
 Scroll through the inspiration shots for the game
 
