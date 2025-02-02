@@ -1,6 +1,6 @@
 ---
 title: Title Ideas
-draft: "true"
+draft: "false"
 description: 
 tags:
 ---
