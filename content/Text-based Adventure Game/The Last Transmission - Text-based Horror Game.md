@@ -20,3 +20,6 @@ Status: Planning
 [[RedHaven]]
 # Canvas
 [[Canvas text based horror.canvas|Canvas text based horror]]
+
+# Misc Files
+[[the strange old document]]
