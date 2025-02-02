@@ -18,21 +18,21 @@ At this point, David is struggling with his own grief and isolation, but the ide
 
 #### **2. Arrival at Redhaven - A Town Frozen in Time**
 
-David arrives at **Redhaven**. The town is **eerily quiet**, with no signs of life. There’s **nothing but decay** and abandonment, but the **footprints** from the photograph are there—leading toward the lake and then into the heart of the town.
+David arrives at **[[Redhaven]]**. The town is **eerily quiet**, with no signs of life. There’s **nothing but decay** and abandonment, but the **footprints** from the photograph are there—leading toward the lake and then into the heart of the town.
 
 - David begins to feel like something is wrong with **time itself** in this place. **Buildings appear to be trapped in different eras**: some look like they belong to the **early 1900s**, others look like they belong to the **1940s**, while a few have **decay** that could have been caused by decades of neglect.
-- The more he digs into **old town records**, he finds **scraps of references** to a **scientific experiment** conducted in the 1960s by a **secretive research group**. The project was called **Project Aether**, and it was an attempt to manipulate time. However, the documents are **vague** and **incomplete**, with many pages **missing** or **destroyed**.
+- The more he digs into **old town records**, he finds **scraps of references** to a **scientific experiment** conducted in the 1960s by a **[[The Scientists|secretive research group]]**. The project was called **Project Aether**, and it was an attempt to manipulate time. However, the documents are **vague** and **incomplete**, with many pages **missing** or **destroyed**.
 
 #### **3. The Whisper of the Experiment - Unearthed Secrets**
 
 David tracks down **former town residents** who had fled before the town’s disappearance. Some of them have vague recollections of **strange occurrences** happening in the town before it was abandoned. A few mention the **town’s founding family**, the **Acherons**, who were believed to have financed the project.
 
 - **The Acherons** were wealthy, eccentric, and interested in **scientific experimentation**. There were rumors that they wanted to build a facility that could **bend time** for personal gain. The residents speak of **flickering lights**, odd noises, and the sudden **disappearance of people** around the time the project was in full swing.
-- David finds **one surviving record**, an old **diary** from a researcher involved in the project. It describes a **time manipulation experiment** that involved **opening a rift in the fabric of time itself**—a rift that **caused the town to split across timelines**, with some of its population existing **in different periods of history** simultaneously.
+- David finds **one surviving record**, an old **diary** from a researcher involved in the project. It describes an **experiment** that involved **opening a rift in the fabric of time itself**—a rift that **caused the town to split across timelines**, with some of its population existing **in different periods of history** simultaneously.
 
 #### **4. The Lake - Where Time Collides**
 
-David’s investigation leads him back to the lake where Emily was found. The lake seems to be **a focal point**, where time **collides**, causing **distorted perceptions** of reality. People who have visited the area speak of experiencing **time loops**, seeing things from the **past**, and hearing **voices from another time**.
+David’s investigation leads him back to [[The Lake|the lake]] where Emily was found. The lake seems to be **a focal point**, where time **collides**, causing **distorted perceptions** of reality. People who have visited the area speak of experiencing **time loops**, seeing things from the **past**, and hearing **voices from another time**.
 
 - **The footprints** near the lake appear to **disappear and reappear**, suggesting that the town, and perhaps even Emily’s death, is caught in the **ripple effect of time’s tear**.
 - David begins to believe that Emily’s death may have been a **result of this distortion**, either by someone being lost in time or, more disturbingly, by something **spiritual or supernatural** drawing her into the lake. Was she pulled into the rift? Did she fall victim to something beyond his understanding?
