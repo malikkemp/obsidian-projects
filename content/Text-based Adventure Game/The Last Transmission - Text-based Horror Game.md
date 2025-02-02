@@ -19,6 +19,10 @@ FInd out more about the Characters involved.
 [[Emily Halloway]]
 [[The Townspeople]]
 [[The Scientists]]
+# Art
+Scroll through the inspiration shots for the game
+[[The Last Transmission Art|Art]]
+
 # Misc Files
 Documents that may lead to solving the mystery
 [[the strange old document]]
