@@ -1,8 +1,10 @@
 ---
 title: Story Premise
-draft: false
+draft: "false"
+description: 
 tags:
 ---
+
 
 [['The Last Transmission - Text-based Horror Game]] 
 

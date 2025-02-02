@@ -1,8 +1,10 @@
 ---
 title: Title Ideas
-draft: false
+draft: "false"
+description: 
 tags:
 ---
+
 
 1. The Last Transmission (I like this one the most)
 2. The Last Signal

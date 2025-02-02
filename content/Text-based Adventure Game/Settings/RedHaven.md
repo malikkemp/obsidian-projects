@@ -1,9 +1,10 @@
 ---
 title: RedHaven
-draft: false
+draft: "false"
+description: 
 tags:
-  - projects
 ---
+
 
 **Redhaven** is a **mysterious, abandoned town** surrounded by **rumors, disappearances, and strange occurrences**. It has been off the grid for decades, and its very existence has become the subject of much speculation. Though it was once a thriving town, it **mysteriously disappeared overnight**, with all of its residents vanishing without a trace. This event remains one of the **most perplexing** and **unexplained** phenomena in the region, and the town’s name has become synonymous with **mystery and dread**.
 

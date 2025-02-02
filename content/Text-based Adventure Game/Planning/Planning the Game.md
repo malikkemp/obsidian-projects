@@ -1,8 +1,10 @@
 ---
 title: Planning the Game
-draft: false
+draft: "false"
+description: 
 tags:
 ---
+
 
 # Getting Started
 
