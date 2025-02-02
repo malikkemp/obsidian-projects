@@ -1,3 +1,9 @@
+---
+title: Title Ideas
+draft: false
+tags:
+---
+
 1. The Last Transmission (I like this one the most)
 2. The Last Signal
 3. Ghost Signal

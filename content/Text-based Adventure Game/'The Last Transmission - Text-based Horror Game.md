@@ -1,8 +1,8 @@
 ---
 title: The Last Transmission - Text-based Horror Game
+draft: false
 tags:
   - projects
-Status: Planning
 ---
 
 # Story

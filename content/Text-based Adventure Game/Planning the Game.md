@@ -1,3 +1,9 @@
+---
+title: Planning the Game
+draft: false
+tags:
+---
+
 # Getting Started
 
 #### 1. Choosing a Programming Language

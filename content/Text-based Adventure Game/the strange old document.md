@@ -1,3 +1,9 @@
+---
+title: the strange old document
+draft: false
+tags:
+---
+
 [[David Halloway]] receives an envelop in the mail with no information on it. No return address, and no postmark. The paper feels aged, as if it's been sitting for years. When he opens it, it is a handwritten note. After reading the letter, he can **ignore it**, or decide to **dig deeper**.
 
 #### **The Letter**
