@@ -9,7 +9,3 @@
 ![[https://i.pinimg.com/736x/f2/0d/e7/f20de7aead8ebd504b8749ac90145671.jpg]]
 ![[https://i.pinimg.com/1200x/ef/b6/66/efb666df53ea2e47f58b0ade0d724b70.jpg]]
 ![[https://i.pinimg.com/1200x/d2/99/b5/d299b54d67f20cfb7469c6f18dea464d.jpg]]
-![[]]
-![[]]
-![[]]
-![[]]
