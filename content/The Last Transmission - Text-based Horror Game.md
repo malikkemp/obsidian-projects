@@ -6,7 +6,7 @@ Status: Planning
 ---
 
 # Story
-[[Story Premise]]
+[[Story]]
 # Planning
 [[Title Ideas]]
 [[Planning the Game]]
