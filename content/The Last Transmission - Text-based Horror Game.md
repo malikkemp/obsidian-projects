@@ -1,5 +1,5 @@
 ---
-title: "'The Last Transmission - Text-based Horror Game"
+title: The Last Transmission - Text-based Horror Game
 tags:
   - projects
 Status: Planning
