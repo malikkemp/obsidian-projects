@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"fc4f0d2996efc945","type":"file","file":"Projects/Text-based Adventure Game/'The Last Transmission - Text-based Horror Game.md","x":-440,"y":-620,"width":900,"height":440},
+		{"id":"f2c163e1a2c22f6e","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201180538.jpg","x":-2480,"y":-310,"width":268,"height":399},
+		{"id":"4f6587e52bc50276","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201181122.jpg","x":-2160,"y":-310,"width":320,"height":399},
+		{"id":"7d44bec3b88bfcaa","type":"text","text":"# Main Planning","x":-115,"y":-1040,"width":250,"height":120},
+		{"id":"3a61434892bf994c","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201181323.png","x":-2880,"y":-310,"width":300,"height":400},
+		{"id":"25cc5a8b6b42c27a","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201181346.jpg","x":-2880,"y":200,"width":300,"height":400},
+		{"id":"7e9f25f401b96e0d","type":"text","text":"# Art Board","x":-2437,"y":-600,"width":182,"height":120},
+		{"id":"38c6e1643c68fb4a","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201181503.png","x":-2160,"y":200,"width":399,"height":131},
+		{"id":"26f61c494f12d6f2","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201181526.png","x":-2479,"y":200,"width":267,"height":400},
+		{"id":"b64912fe25512270","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201185243.png","x":-2161,"y":400,"width":400,"height":400},
+		{"id":"8c1bab070bed4240","type":"file","file":"zMeta/Files/Photos/Pasted image 20250201185346.png","x":-2480,"y":680,"width":267,"height":400},
+		{"id":"8f5ecb2c917682c9","type":"file","file":"Projects/Text-based Adventure Game/Planning/Title Ideas.md","x":-600,"y":80,"width":400,"height":400},
+		{"id":"87aae9e24eb2ea81","type":"file","file":"Projects/Text-based Adventure Game/Planning/Planning the Game.md","x":-115,"y":80,"width":400,"height":400},
+		{"id":"b27ff4d084f3975d","type":"file","file":"Projects/Text-based Adventure Game/Settings/RedHaven.md","x":1280,"y":80,"width":400,"height":540},
+		{"id":"3f2b814bbee50556","type":"text","text":"# Setting","x":1155,"y":-400,"width":200,"height":120},
+		{"id":"1cfbb2655910b083","type":"text","text":"# Characters","x":577,"y":859,"width":223,"height":121},
+		{"id":"fd9b559fa6f2a32b","type":"file","file":"Projects/Text-based Adventure Game/Characters/The Townspeople.md","x":-200,"y":1210,"width":400,"height":400},
+		{"id":"c97e75fa00339fab","type":"file","file":"Projects/Text-based Adventure Game/Characters/David Halloway.md","x":260,"y":1210,"width":400,"height":400},
+		{"id":"11bb476aec363064","type":"file","file":"Projects/Text-based Adventure Game/Characters/Emily Halloway.md","x":702,"y":1210,"width":400,"height":400},
+		{"id":"81d120f1a55432a1","type":"file","file":"Projects/Text-based Adventure Game/Characters/The Scientists.md","x":1155,"y":1210,"width":400,"height":400},
+		{"id":"67dc77be1c247de6","type":"file","file":"Projects/Text-based Adventure Game/David's Investigation.md","x":-1460,"y":1120,"width":760,"height":960},
+		{"id":"20127a046cb96078","type":"file","file":"Projects/Text-based Adventure Game/Story Premise.md","x":-1460,"y":89,"width":760,"height":910}
+	],
+	"edges":[
+		{"id":"12ab0ae8ac23263b","fromNode":"fc4f0d2996efc945","fromSide":"left","toNode":"20127a046cb96078","toSide":"top"},
+		{"id":"00d13dfe749aa24f","fromNode":"7d44bec3b88bfcaa","fromSide":"bottom","toNode":"fc4f0d2996efc945","toSide":"top"},
+		{"id":"1e68478ec6b79726","fromNode":"7e9f25f401b96e0d","fromSide":"bottom","toNode":"3a61434892bf994c","toSide":"top"},
+		{"id":"8505c43ce7003aa7","fromNode":"7e9f25f401b96e0d","fromSide":"bottom","toNode":"4f6587e52bc50276","toSide":"top"},
+		{"id":"ec8cf9d97ff9f7ac","fromNode":"7e9f25f401b96e0d","fromSide":"bottom","toNode":"f2c163e1a2c22f6e","toSide":"top"},
+		{"id":"f812531ffe331645","fromNode":"fc4f0d2996efc945","fromSide":"left","toNode":"8f5ecb2c917682c9","toSide":"top"},
+		{"id":"eea6d61a83734ed4","fromNode":"fc4f0d2996efc945","fromSide":"bottom","toNode":"87aae9e24eb2ea81","toSide":"top"},
+		{"id":"36a77dde93b831c1","fromNode":"fc4f0d2996efc945","fromSide":"right","toNode":"3f2b814bbee50556","toSide":"top"},
+		{"id":"479e255adaa5244a","fromNode":"3f2b814bbee50556","fromSide":"bottom","toNode":"b27ff4d084f3975d","toSide":"top"},
+		{"id":"41108ba2297fd431","fromNode":"fc4f0d2996efc945","fromSide":"bottom","toNode":"1cfbb2655910b083","toSide":"top"},
+		{"id":"8f6db85be360aa8d","fromNode":"1cfbb2655910b083","fromSide":"bottom","toNode":"fd9b559fa6f2a32b","toSide":"top"},
+		{"id":"bd584d72887fc7e7","fromNode":"1cfbb2655910b083","fromSide":"bottom","toNode":"c97e75fa00339fab","toSide":"top"},
+		{"id":"922d13eea14ee322","fromNode":"1cfbb2655910b083","fromSide":"bottom","toNode":"11bb476aec363064","toSide":"top"},
+		{"id":"b68d455fddc42e12","fromNode":"1cfbb2655910b083","fromSide":"bottom","toNode":"81d120f1a55432a1","toSide":"top"},
+		{"id":"4e90bbe372b868c6","fromNode":"20127a046cb96078","fromSide":"bottom","toNode":"67dc77be1c247de6","toSide":"top"}
+	]
+}
