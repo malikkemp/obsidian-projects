@@ -1,3 +1,10 @@
+---
+title: David's Investigation
+draft: "false"
+description: 
+tags:
+---
+
 ### **The Unfolding Investigation:**
 
 #### **1. The First Clue - The Mysterious Document**

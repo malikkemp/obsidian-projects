@@ -21,7 +21,17 @@
 		{"id":"11bb476aec363064","type":"file","file":"Projects/Text-based Adventure Game/Characters/Emily Halloway.md","x":702,"y":1210,"width":400,"height":400},
 		{"id":"81d120f1a55432a1","type":"file","file":"Projects/Text-based Adventure Game/Characters/The Scientists.md","x":1155,"y":1210,"width":400,"height":400},
 		{"id":"67dc77be1c247de6","type":"file","file":"Projects/Text-based Adventure Game/David's Investigation.md","x":-1460,"y":1120,"width":760,"height":960},
-		{"id":"20127a046cb96078","type":"file","file":"Projects/Text-based Adventure Game/Summary.md","x":-1460,"y":89,"width":760,"height":910}
+		{"id":"20127a046cb96078","type":"file","file":"Projects/Text-based Adventure Game/Summary.md","x":-1460,"y":89,"width":760,"height":910},
+		{"id":"3cce1403c40fe1f4","type":"link","url":"https://i.pinimg.com/736x/58/7c/e5/587ce578937f766e220b7c11f34ece10.jpg","x":-3100,"y":680,"width":580,"height":260},
+		{"id":"d5950cf328aa5d01","x":-3360,"y":400,"width":400,"height":200,"type":"link","url":"https://i.pinimg.com/1200x/84/10/9d/84109d2e85561f6e5e740d4e0a6a01ce.jpg"},
+		{"id":"6391316290b72244","x":-3360,"y":90,"width":400,"height":249,"type":"link","url":"https://i.pinimg.com/1200x/ab/8b/64/ab8b642385de217eb73ca5a2fbd07037.jpg"},
+		{"id":"3b17a670874f782c","x":-3440,"y":680,"width":280,"height":400,"type":"link","url":"https://i.pinimg.com/1200x/1d/d5/dd/1dd5ddc135ed68c3e4128591d36be9c8.jpg"},
+		{"id":"b6e45cd78c86a9b8","x":-3080,"y":1000,"width":400,"height":320,"type":"link","url":"https://i.pinimg.com/1200x/b9/8d/07/b98d07a180c64fa63b9087b5217fd108.jpg"},
+		{"id":"eaaf7e6fd89b2aa5","x":-3560,"y":1120,"width":400,"height":400,"type":"link","url":"https://i.pinimg.com/1200x/0a/4c/2f/0a4c2fe392b40a9ccb5618781581d9d8.jpg"},
+		{"id":"bd422d4463bae1ff","x":-3080,"y":1400,"width":400,"height":400,"type":"link","url":"https://i.pinimg.com/1200x/a7/69/e0/a769e0f10c50006a2bdbe0aefd1b6ca3.jpg"},
+		{"id":"2e7328c2255ec424","x":-2580,"y":1160,"width":400,"height":400,"type":"link","url":"https://i.pinimg.com/736x/f2/0d/e7/f20de7aead8ebd504b8749ac90145671.jpg"},
+		{"id":"f65acf2a28361590","x":-2580,"y":1600,"width":400,"height":400,"type":"link","url":"https://i.pinimg.com/1200x/ef/b6/66/efb666df53ea2e47f58b0ade0d724b70.jpg"},
+		{"id":"de870fafe5dd8cca","x":-3080,"y":1880,"width":400,"height":400,"type":"link","url":"https://i.pinimg.com/1200x/d2/99/b5/d299b54d67f20cfb7469c6f18dea464d.jpg"}
 	],
 	"edges":[
 		{"id":"12ab0ae8ac23263b","fromNode":"fc4f0d2996efc945","fromSide":"left","toNode":"20127a046cb96078","toSide":"top"},
