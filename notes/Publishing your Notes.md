@@ -9,6 +9,6 @@ npx quartz sync
 ```
 3. To see a preview of the build, run the following command
 ```
-npx quartz build --serve
+npx quartz build --serve --port 3000
 ```
 4. Host your site for free on GitHub Pages
